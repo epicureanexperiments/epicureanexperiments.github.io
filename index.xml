@@ -3,7 +3,11 @@
   <channel>
     <title>Learning Hugo</title>
     <link>https://epicureanexperiments.github.io/</link>
+<<<<<<< HEAD
     <description>Recent content on Learning Hugo</description>
+=======
+    <description>Recent content on My New Hugo Site</description>
+>>>>>>> 8ef0bc3034f3872ce80853c7ab32b35ddcea4bf8
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://epicureanexperiments.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +17,6 @@
       
       <guid>https://epicureanexperiments.github.io/services/</guid>
       <description>This is a page about the services, which I offer.
-It carries a lot more detail than what I put on the homepage - I swear!
 You want to know what I can do for you?
 Well, let me tell ya!
 Nutrition Coaching This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.</description>
